@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FantasyFootballPointsCalc", "FantasyFootballPointsCalc.pyproj", "{722204FB-99A1-430F-B53F-2C5793AC3E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722204FB-99A1-430F-B53F-2C5793AC3E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722204FB-99A1-430F-B53F-2C5793AC3E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA9B11B-0880-41E5-9C15-0AC2BAACD14D}
+	EndGlobalSection
+EndGlobal
